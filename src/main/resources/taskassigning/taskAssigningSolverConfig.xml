@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solver>
+  <solutionClass>taskassigning.domain.TaskAssigningSolution</solutionClass>
+  <entityClass>taskassigning.domain.TaskOrEmployee</entityClass>
+  <entityClass>taskassigning.domain.Task</entityClass>
+
+  <scoreDirectorFactory/>
+</solver>
